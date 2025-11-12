@@ -1,0 +1,21 @@
+booking_id,customer_id,driver_id,vehicle_type,pickup_location,drop_location,booking_status,date,booking_value,ride_distance,payment_method,driver_rating,customer_rating
+1,101,501,Mini,Indiranagar,Whitefield,Success,2025-01-12,250,10,UPI,4.5,5.0
+2,102,502,Prime Sedan,HSR Layout,Electronic City,Cancelled by Customer,2025-01-13,0,0,Cash,,4.0
+3,103,503,Micro,Koramangala,Majestic,Success,2025-02-02,180,7,Wallet,5.0,5.0
+4,101,504,Mini,Whitefield,Indiranagar,Success,2025-02-25,260,11,Cash,4.0,4.5
+5,104,505,Auto,BTM Layout,Koramangala,Success,2025-03-03,120,5,UPI,4.8,5.0
+6,105,506,Prime SUV,Indiranagar,Airport,Cancelled by Driver,2025-03-05,0,0,Wallet,,4.2
+7,106,507,Micro,Marathahalli,Whitefield,Success,2025-03-22,200,8,Cash,5.0,5.0
+8,107,508,Mini,Koramangala,HSR Layout,Success,2025-04-11,150,6,Wallet,4.2,4.8
+9,108,509,Prime Sedan,Indiranagar,MG Road,Success,2025-04-15,220,9,UPI,4.9,5.0
+10,109,510,Auto,HSR Layout,Electronic City,Success,2025-05-01,130,5,UPI,5.0,5.0
+11,110,511,Prime SUV,Airport,Whitefield,Success,2025-05-09,600,35,Cash,4.8,4.9
+12,111,512,Mini,BTM Layout,MG Road,Success,2025-06-12,190,8,Wallet,4.6,5.0
+13,112,513,Micro,Koramangala,Electronic City,Cancelled by Driver,2025-06-20,0,0,Cash,,4.3
+14,113,514,Prime Sedan,HSR Layout,Indiranagar,Success,2025-07-07,210,9,UPI,4.7,5.0
+15,114,515,Auto,Whitefield,Koramangala,Success,2025-07-19,140,6,Cash,4.9,5.0
+16,115,516,Prime SUV,Airport,MG Road,Success,2025-08-04,580,34,Wallet,4.5,4.8
+17,116,517,Mini,Koramangala,Whitefield,Success,2025-08-20,250,10,UPI,4.6,5.0
+18,117,518,Micro,Electronic City,HSR Layout,Success,2025-09-01,170,7,Cash,4.9,5.0
+19,118,519,Prime Sedan,MG Road,Indiranagar,Cancelled by Customer,2025-09-15,0,0,Wallet,,4.4
+20,119,520,Mini,Marathahalli,Airport,Success,2025-10-10,320,14,UPI,4.7,5.0
