@@ -16,6 +16,24 @@ _Ola cabs wants to improve its operational performance and customer satisfaction
 
 _By solving these questions, the company can optimise driver allocation, pricing and customer retention strategies._
 
+# Database
+| Schema | Description |
+|:-----------------------|--------------:|
+| booking_id | INT |
+| customer_id | INT |
+| driver_id | INT |
+| vehicle_type | TEXT |
+| pickup_loaction | TEXT |
+| drop_location | TEXT |
+| booking_status | TEXT |
+| date | DATE |
+| booking_value | INT |
+| ride_distance | INT |
+| payment_method | TEXT |
+| driver_rating | DOUBLE |
+| customer_rating | DOUBLE |
+
+
 # Tools & Technologies
 - SQL(MYSQL): Data extraction, transformation and analysis
 - POWER BI: Data Visualisation and Interactive Dashboard
